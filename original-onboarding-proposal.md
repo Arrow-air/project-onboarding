@@ -58,7 +58,7 @@ This proposal is requesting the creation of a project called ‘Onboarding’. I
 
 The onboarding project will continue to exist even after these milestones are completed. Onboarding, or getting people to participate in Arrow, is an infinite game that will always require upkeep, reflection and improvement!
 
-![Onboarding](https://github.com/Arrow-air/project-onboarding/assets/original-proposal/arrow-platform-pieces-lego@2x.png)
+![Onboarding](https://github.com/Arrow-air/project-onboarding/blob/main/assets/original-proposal/arrow-platform-pieces-lego%402x.png)
 
 Getting people to participate in Arrow’s mission and community isn’t a product, but if we treat it as one, we need to address various aspects of the user experience. Let’s take each of these three areas separately and compare where we are now to where we want to be.
 
